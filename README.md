@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me linkedin.com/in/dhanashree-kalel-540414109 
+- 📫 How to reach me https://www.linkedin.com/in/dhanashree-kalel-540414
 - 😄 Pronouns: Miss Dhanashree
 - ⚡ Fun fact: Coaders are enjoying weekends
 
